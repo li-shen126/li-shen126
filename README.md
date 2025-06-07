@@ -1,0 +1,8 @@
+-  Hi, I’m @li-shen126
+-  I'm from China
+-  I’m interested in programming
+-  I’m currently learning C++
+-  My accounts on other platforms ：bilibili 半醒lili
+-  How to contact me
+-  QQ 1394228873
+-  wechat 18574005081
