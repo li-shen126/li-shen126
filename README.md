@@ -1,8 +1,8 @@
--  Hi, I’m @li-shen126
--  I'm from China
--  I’m interested in programming
--  I’m currently learning C++
--  My accounts on other platforms ：bilibili 壹半Yihar
--  How to contact me
--  QQ 1394228873
--  wechat 18574005081
+#欢迎 My Profile
+
+#高中牲一枚 爱好编程 电子硬件 AI学习
+
+![My GitHub Game](game.gif)
+
+[![GitHub Insights](https://yourinsights.vercel.app/api/insight?username=li-shen126&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false)](https://github.com/li-shen126)
+
