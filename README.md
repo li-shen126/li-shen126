@@ -1,6 +1,6 @@
-#欢迎 My Profile
+# 欢迎 My Profile
 
-#高中牲一枚 爱好编程 电子硬件 AI学习
+# 高中牲一枚 爱好编程 电子硬件 AI学习
 
 ![My GitHub Game](game.gif)
 
